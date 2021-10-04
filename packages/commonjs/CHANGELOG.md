@@ -1,5 +1,29 @@
 # @rollup/plugin-commonjs ChangeLog
 
+## v21.0.0
+
+_2021-10-01_
+
+### Breaking Changes
+
+- fix: use safe default value for ignoreTryCatch (#1005)
+
+## v20.0.0
+
+_2021-07-30_
+
+### Breaking Changes
+
+- fix: Correctly infer module name for any separator (#924)
+
+## v19.0.2
+
+_2021-07-26_
+
+### Bugfixes
+
+- fix convert module.exports with `__esModule` property(#939) (#942)
+
 ## v19.0.1
 
 _2021-07-15_
